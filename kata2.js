@@ -1,14 +1,12 @@
-function friend(friends){
-    let input = ["Ryan", "Kieran", "Mark", "Jason", "Yous", "Ryan"];
-    let friends = [];
+function functionfriend() {
+    let input = ["rrrr", "fffffff", "gggg","aaaaa"];
+    let friend = [];
     for (let i = 0; i < input.length; i++) {
-        if (i = 4) {
-            console.log(friends);
+        if (input[i].length === 4) {
+            friend = input[i];
         }
-        else {
-
-        }
+        console.log("My friens = " + friend);
     }
-
 }
-friend(friends)();
+
+functionfriend();
