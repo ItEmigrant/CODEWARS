@@ -7,3 +7,4 @@ function noSpace(x) {
     }
     return newStr
 }
+
