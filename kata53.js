@@ -7,6 +7,7 @@ function checkAlive (health) {
       return true
     }
   }
-checkAlive (5)
+
+console.log(checkAlive (5))
 
   
