@@ -3,8 +3,8 @@ function multiply (a,b) {
 }
 
 //opcion b
-function multiply (a, b) {
+/*function multiply (a, b) {
     let c = a*b;
       return c;
-    }
-    
+    }*/
+console.log(multiply(2,2))
